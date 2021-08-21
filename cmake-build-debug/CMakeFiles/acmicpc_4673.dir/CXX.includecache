@@ -7,8 +7,6 @@
 #IncludeRegexTransform: 
 
 /Users/isaac/FORE_HEAD/test/acmicpc_4673/main.cpp
-iostream
--
-vector
+cstdio
 -
 
